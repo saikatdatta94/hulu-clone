@@ -24,6 +24,7 @@ function Header() {
                 <HeaderItem title="USER" Icon={UserIcon} ></HeaderItem>
             </div>
             <Image
+                alt="hulu-logo"
                 className="object-contain"
                 src={hulu}
                 width={200}
