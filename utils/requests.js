@@ -1,4 +1,3 @@
-// const API_KEY='ae5cf0793419a523dcb4d4b31fdcad57';
 const API_KEY=process.env.API_KEY;
 
 
